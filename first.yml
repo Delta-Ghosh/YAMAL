@@ -1,0 +1,23 @@
+name: Sarthak #key and values
+age: 26
+server : # Object
+  name: "SarthakwithSoumii"
+  capacity : 50GB  
+
+socialmedia : #list
+  - insta-who.is_Ghosh
+  - Linkedin-SarthakGhosh
+
+testing : | #| with this sign you can write multiline string
+  This is Sarthak.
+  And this is MultiLine
+  string
+
+
+list_of_servers: #List of objectes 
+  - server_1 : #object1
+    name : "EC2"
+    volume : 8gb
+  - server_2 : #object2
+    name : "S3"
+    volume : 1 TB
