@@ -1,3 +1,5 @@
+#YAML = yet another markup language
+
 name: Sarthak #key and values
 age: 26
 server : # Object
