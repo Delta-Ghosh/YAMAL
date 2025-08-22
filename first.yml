@@ -23,3 +23,10 @@ list_of_servers: #List of objectes
   - server_2 : #object2
     name : "S3"
     volume : 1 TB
+
+#Strings, numbers, booleans, nulls.
+retries: 3
+enabled: true
+description: "Daily ETL job"
+
+
